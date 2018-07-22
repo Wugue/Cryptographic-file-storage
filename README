@@ -1,0 +1,22 @@
+CS 161 Spring 2017 Project 2: Secure File Store
+===============================================
+
+Version 1.0: March 8, 2017
+
+
+For the full documentation of the code provided, please see the online
+documentation at
+https://www.icir.org/vern/cs161-sp17/projects/encrypted-file-store/docs/
+
+As always, if you have questions about or find errors in this documentation,
+please post on Piazza.
+
+For this project, you can work in teams of up to 2 people.
+
+All of your code must go in `client.py`.
+
+You must use Python 3 and PyCrypto 2.6.1 for this project. These are already
+provided for you on Hive and most other instructional machines. Double check
+that you are using Python3---on many machines (including Hive), the `python`
+command defaults to Python 2. Use the `python3` command. For more details see
+the `Getting Started` section in the online documentation.
